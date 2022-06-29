@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m gggne
+    python3 -m LEO1
 }
 
 _set_bot
