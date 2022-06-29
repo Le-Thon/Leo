@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m LEO1
+    python3 -m LeThon
 }
 
 _set_bot
