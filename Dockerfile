@@ -8,6 +8,6 @@ WORKDIR /root/LeThon
 # Install requirements
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-ENV PATH="/home/sbb_b/bin:$PATH"
+ENV PATH="/home/gggne/bin:$PATH"
 
 CMD ["python3","-m","gggne"]
