@@ -1,1 +1,1 @@
-worker: bash LEO
+worker: bash QHR1
